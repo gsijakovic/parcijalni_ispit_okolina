@@ -4,7 +4,9 @@
   "description": "Razvojna okolina - parcijalni ispit",
   "main": "app.js",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "express": "^4.17.1",
+    "handlebars": "^4.7.7",
     "random": "^4.1.0"
   },
   "scripts": {
